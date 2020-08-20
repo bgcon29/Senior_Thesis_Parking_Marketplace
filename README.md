@@ -1,4 +1,4 @@
-Prototype of a peer-to-peer Tailgating marketplace written for my Senior Capstone Thesis in order to graduate
+Prototype of a peer-to-peer Tailgating marketplace written for my Senior Capstone Thesis.
 
 UI is very basic and simple, as the focus was on the backend and Google Maps, and there was a limited amount of time.
 
